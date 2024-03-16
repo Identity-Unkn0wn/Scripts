@@ -2,7 +2,6 @@
 
 # Function to install Edge Appstore
 installEdgeAppstore() {
-
     # Unregister the Official CasaOS Appstore
     casaos-cli app-management unregister app-store 0
 
