@@ -7,5 +7,6 @@ This script is designed to simplify the installation of the CasaOS AppStore Edge
 # Run command
 
 ```bash
-bash -c "$(wget -qLO - https://github.com/Identity-Unkn0wn/Scripts/blob/4c6131d5c33aaac321622ad1eb4ff328acd49e31/run.sh)"
+bash -c "$(wget -qLO - https://github.com/Identity-Unkn0wn/Scripts/blob/ceafc56e2bc54d9ca9c4a0ba8ee28a1f14eb801f/run.sh)"
 ```
+
