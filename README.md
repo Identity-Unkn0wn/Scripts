@@ -7,5 +7,5 @@ This script is designed to simplify the installation of the CasaOS AppStore Edge
 # Run command
 
 ```bash
-bash -c "$(wget -qLO - https://raw.githubusercontent.com/bigbeartechworld/big-bear-scripts/master/casaos-appstore-edge/run.sh)"
+bash -c "$(wget -qLO - https://github.com/Identity-Unkn0wn/Scripts/blob/6bfbb8a052bf2d0390b57fd8dcddc31fb4762989/run.sh)"
 ```
